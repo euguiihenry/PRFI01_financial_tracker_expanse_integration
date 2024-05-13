@@ -1,0 +1,1360 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "18114cfa-14e2-40da-a835-dfd0af3eb20e",
+            "created_time": "2024-05-13T14:31:00.000Z",
+            "last_edited_time": "2024-05-13T14:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 84.86
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": []
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "dH=B",
+                        "name": "Apr",
+                        "color": "yellow"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "b4184e7a-2e19-4483-8ab5-1d0b05ac3391",
+                        "name": "Básico",
+                        "color": "green"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 84.86
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Oi Total",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Oi Total",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Oi-Total-18114cfa14e240daa835dfd0af3eb20e",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "26836099-0c70-4390-a701-bc8d49794111",
+            "created_time": "2024-05-13T14:30:00.000Z",
+            "last_edited_time": "2024-05-13T14:31:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 84.99
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": []
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "dH=B",
+                        "name": "Apr",
+                        "color": "yellow"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "b4184e7a-2e19-4483-8ab5-1d0b05ac3391",
+                        "name": "Básico",
+                        "color": "green"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 84.99
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "COPASA",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "COPASA",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/COPASA-268360990c704390a701bc8d49794111",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "cabb3162-59fe-4024-9b7c-56a10ae77f67",
+            "created_time": "2024-05-13T14:28:00.000Z",
+            "last_edited_time": "2024-05-13T14:29:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 176.7
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": []
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "dH=B",
+                        "name": "Apr",
+                        "color": "yellow"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "b4184e7a-2e19-4483-8ab5-1d0b05ac3391",
+                        "name": "Básico",
+                        "color": "green"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 176.7
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "CEMIG",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "CEMIG",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/CEMIG-cabb316259fe40249b7c56a10ae77f67",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "0eee08e8-91a3-4264-8fe9-c5b33c2874bc",
+            "created_time": "2024-05-13T14:12:00.000Z",
+            "last_edited_time": "2024-05-13T14:15:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 168.64
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": []
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "FACJ",
+                        "name": "May",
+                        "color": "green"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "b4184e7a-2e19-4483-8ab5-1d0b05ac3391",
+                        "name": "Básico",
+                        "color": "green"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 168.64
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "CEMIG",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "CEMIG",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/CEMIG-0eee08e891a342648fe9c5b33c2874bc",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "bb8a213d-83e9-4b1a-869b-48b405556618",
+            "created_time": "2024-05-13T14:11:00.000Z",
+            "last_edited_time": "2024-05-13T14:15:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 77.67
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": []
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "FACJ",
+                        "name": "May",
+                        "color": "green"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "b4184e7a-2e19-4483-8ab5-1d0b05ac3391",
+                        "name": "Básico",
+                        "color": "green"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 77.67
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "COPASA",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "COPASA",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/COPASA-bb8a213d83e94b1a869b48b405556618",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "4d1e9773-14c0-4878-acbb-47de6bef272e",
+            "created_time": "2024-05-13T14:10:00.000Z",
+            "last_edited_time": "2024-05-13T14:15:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 84.86
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": []
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "FACJ",
+                        "name": "May",
+                        "color": "green"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "b4184e7a-2e19-4483-8ab5-1d0b05ac3391",
+                        "name": "Básico",
+                        "color": "green"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 84.86
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Oi Total",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Oi Total",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Oi-Total-4d1e977314c04878acbb47de6bef272e",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "33c9eb8a-c349-4155-80e0-32167f6e432f",
+            "created_time": "2024-05-13T13:58:00.000Z",
+            "last_edited_time": "2024-05-13T14:10:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 70.6
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "2024.05.13_boletoPagamento_GPS_edineia_ref_apr2024.pdf",
+                            "type": "file",
+                            "file": {
+                                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/75eaaa3f-2f8b-44c2-9e6b-9d6e1cd1b2bb/8847ac28-b1ea-46f6-abef-504834c1fc9e/2024.05.13_boletoPagamento_GPS_edineia_ref_apr2024.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240513%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240513T175058Z&X-Amz-Expires=3600&X-Amz-Signature=e5389f76245fa6ff66537dc83680fea6305a4da707453934f77e36d7eec6c7d6&X-Amz-SignedHeaders=host&x-id=GetObject",
+                                "expiry_time": "2024-05-13T18:50:58.628Z"
+                            }
+                        },
+                        {
+                            "name": "2024.05.13_comprovantePagamento_GPS_edineia_ref_apr2024.pdf",
+                            "type": "file",
+                            "file": {
+                                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/75eaaa3f-2f8b-44c2-9e6b-9d6e1cd1b2bb/b4d8fe43-a25d-4552-8206-d2538dbfa944/2024.05.13_comprovantePagamento_GPS_edineia_ref_apr2024.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240513%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240513T175058Z&X-Amz-Expires=3600&X-Amz-Signature=a41a89271dd5d49ed6d1196cd162e8fca3cdc3d27c350fb84977bddc3010790c&X-Amz-SignedHeaders=host&x-id=GetObject",
+                                "expiry_time": "2024-05-13T18:50:58.635Z"
+                            }
+                        }
+                    ]
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "FACJ",
+                        "name": "May",
+                        "color": "green"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "UOW\\",
+                        "name": "Previdência Social",
+                        "color": "red"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 70.6
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "GPS",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "GPS",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/GPS-33c9eb8ac349415580e032167f6e432f",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "493234cf-2c01-433c-96cd-81fd56bdef7a",
+            "created_time": "2024-04-15T21:16:00.000Z",
+            "last_edited_time": "2024-04-15T21:16:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 70.6
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "2024.03.14_boleto_pagamento_gps_inss_edineia_ref_feb2024.pdf",
+                            "type": "file",
+                            "file": {
+                                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/75eaaa3f-2f8b-44c2-9e6b-9d6e1cd1b2bb/03f9e5cd-1c6f-4598-83a0-3b719a4a3fe0/2024.03.14_boleto_pagamento_gps_inss_edineia_ref_feb2024.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240513%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240513T175058Z&X-Amz-Expires=3600&X-Amz-Signature=a60bc7bc648a35580620b3d16d235caca6e2e4c89c637d1b296e2f0d5f5a754f&X-Amz-SignedHeaders=host&x-id=GetObject",
+                                "expiry_time": "2024-05-13T18:50:58.629Z"
+                            }
+                        },
+                        {
+                            "name": "2024.03.14_comprovante_pagamento_gps_edineia_ref_feb2024.jpg",
+                            "type": "file",
+                            "file": {
+                                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/75eaaa3f-2f8b-44c2-9e6b-9d6e1cd1b2bb/fdf2741c-2518-4625-abf4-f3daa544cd6c/2024.03.14_comprovante_pagamento_gps_edineia_ref_feb2024.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240513%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240513T175058Z&X-Amz-Expires=3600&X-Amz-Signature=5f6e2fa156e729c606189017037dd183ce85c8c0d40e6690c5332a72815ce8ca&X-Amz-SignedHeaders=host&x-id=GetObject",
+                                "expiry_time": "2024-05-13T18:50:58.642Z"
+                            }
+                        }
+                    ]
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "hkv[",
+                        "name": "Mar",
+                        "color": "orange"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "UOW\\",
+                        "name": "Previdência Social",
+                        "color": "red"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 70.6
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "GPS",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "GPS",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/GPS-493234cf2c01433c96cd81fd56bdef7a",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "bf9570f0-9d74-43db-a8ef-d754e9f0362a",
+            "created_time": "2024-03-14T12:37:00.000Z",
+            "last_edited_time": "2024-03-14T12:46:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 65
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "2024.03.14_boleto_inscricao_concurso_camara_bh.pdf",
+                            "type": "file",
+                            "file": {
+                                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/75eaaa3f-2f8b-44c2-9e6b-9d6e1cd1b2bb/80530282-d8cf-4f42-9fc5-eec89354ea95/2024.03.14_boleto_inscricao_concurso_camara_bh.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240513%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240513T175058Z&X-Amz-Expires=3600&X-Amz-Signature=3749755000609fc93372155ad3b90279945d069af8818ba87b04f64e8098b351&X-Amz-SignedHeaders=host&x-id=GetObject",
+                                "expiry_time": "2024-05-13T18:50:58.629Z"
+                            }
+                        },
+                        {
+                            "name": "2024.03.14_comprovante_pagamento_concurso_camara.jpg",
+                            "type": "file",
+                            "file": {
+                                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/75eaaa3f-2f8b-44c2-9e6b-9d6e1cd1b2bb/2749d500-4fc4-4c85-8b30-deaa458b7385/2024.03.14_comprovante_pagamento_concurso_camara.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240513%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240513T175058Z&X-Amz-Expires=3600&X-Amz-Signature=406a3b03baf2550d355992227656fbae5d47ece1ef97f1635308a88996c0f761&X-Amz-SignedHeaders=host&x-id=GetObject",
+                                "expiry_time": "2024-05-13T18:50:58.639Z"
+                            }
+                        }
+                    ]
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "hkv[",
+                        "name": "Mar",
+                        "color": "orange"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "Jdtz",
+                        "name": "Pessoal",
+                        "color": "purple"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 65
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Inscrição - Concurso da Câmara de BH",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Inscrição - Concurso da Câmara de BH",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Inscri-o-Concurso-da-C-mara-de-BH-bf9570f09d7443dba8efd754e9f0362a",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "288e717f-8a49-4360-a966-6463879342f7",
+            "created_time": "2024-03-14T12:08:00.000Z",
+            "last_edited_time": "2024-05-13T14:15:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "1aee36fa-0bf3-45c3-8d28-b2ba215551de"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "0d41ecba-d56f-47c6-a2b8-0ef0a22625e9"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Target": {
+                    "id": "CZ_U",
+                    "type": "number",
+                    "number": 1
+                },
+                "Wish": {
+                    "id": "EzQ%3D",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Final Expense": {
+                    "id": "HVb%40",
+                    "type": "formula",
+                    "formula": {
+                        "type": "number",
+                        "number": 192.55
+                    }
+                },
+                "Situation": {
+                    "id": "JyLB",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Files": {
+                    "id": "OMdm",
+                    "type": "files",
+                    "files": [
+                        {
+                            "name": "2024.03.14_comprovante_pagamento_cemig_ref_mar2024.jpg",
+                            "type": "file",
+                            "file": {
+                                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/75eaaa3f-2f8b-44c2-9e6b-9d6e1cd1b2bb/4324a722-b103-44c0-9bdd-0ed0795b1565/2024.03.14_comprovante_pagamento_cemig_ref_mar2024.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240513%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240513T175058Z&X-Amz-Expires=3600&X-Amz-Signature=350ab89af2df4fa5538636417d82e69e708a352e956bd448cb489fb37c70a281&X-Amz-SignedHeaders=host&x-id=GetObject",
+                                "expiry_time": "2024-05-13T18:50:58.629Z"
+                            }
+                        }
+                    ]
+                },
+                "Cycle": {
+                    "id": "QA%40%5B",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Association": {
+                    "id": "ZH%5Bz",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Month": {
+                    "id": "%5CPPr",
+                    "type": "select",
+                    "select": {
+                        "id": "hkv[",
+                        "name": "Mar",
+                        "color": "orange"
+                    }
+                },
+                "Fixed / Variable": {
+                    "id": "%5CplW",
+                    "type": "select",
+                    "select": {
+                        "id": "boux",
+                        "name": "Fixed",
+                        "color": "green"
+                    }
+                },
+                "Year": {
+                    "id": "eZm~",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Expense Type": {
+                    "id": "f_qq",
+                    "type": "select",
+                    "select": {
+                        "id": "b4184e7a-2e19-4483-8ab5-1d0b05ac3391",
+                        "name": "Básico",
+                        "color": "green"
+                    }
+                },
+                "Total": {
+                    "id": "%7D%3Dvu",
+                    "type": "number",
+                    "number": 192.55
+                },
+                "Description": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "CEMIG",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "CEMIG",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/CEMIG-288e717f8a494360a9666463879342f7",
+            "public_url": null
+        }
+    ],
+    "next_cursor": "91fc0179-5e05-40a9-a10d-d06506f3a975",
+    "has_more": true,
+    "type": "page_or_database",
+    "page_or_database": {},
+    "request_id": "ad7625f9-667f-436b-8bb7-b7b902052cbe"
+}
