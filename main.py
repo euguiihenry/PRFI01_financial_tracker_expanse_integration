@@ -4,11 +4,11 @@ from dotenv import load_dotenv
 from datetime import datetime, timezone
 
 load_dotenv()  # This reads the .env file
-expanses_key = os.environ.get('EXPANSES_KEY')
+expenses_key = os.environ.get('EXPENSES_KEY')
 database_id = os.environ.get('DATABASE_ID')
 
 headers = {
-    "Authorization": "Bearer " + expanses_key,
+    "Authorization": "Bearer " + expenses_key,
     "Content-Type": "application/json",
     "Notion-Version": "2022-06-28"
 }
